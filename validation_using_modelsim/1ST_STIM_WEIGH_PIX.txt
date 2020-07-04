@@ -1,0 +1,38 @@
+#           1358000000 | weighted_pixel[0] =   0 | weighted_pixel[1] = 256 | weighted_pixel[2] =   0 | weighted_pixel[3] =   0 | weighted_pixel[4] = 256 | 
+# 			weighted_pixel[5] = 256 | weighted_pixel[6] = 256 | weighted_pixel[7] =   0 | weighted_pixel[8] = 256 | weighted_pixel[9] =   0 | weighted_pixel[10] =   0
+
+#           1371000000 | weighted_pixel[11] = 256 | weighted_pixel[12] =   0 | weighted_pixel[13] =   0 | weighted_pixel[14] =   0 | weighted_pixel[15] = 256 | 
+# weighted_pixel[16] = 256 | weighted_pixel[17] = 256 | weighted_pixel[18] =   0 | weighted_pixel[19] = 256 | weighted_pixel[20] =   0 | weighted_pixel[21] =   0
+
+#           1384000000 | weighted_pixel[22] = 256 | weighted_pixel[23] =   0 | weighted_pixel[24] = 256 | weighted_pixel[25] =   0 | weighted_pixel[26] =   0 | 
+# weighted_pixel[27] = 256 | weighted_pixel[28] = 256 | weighted_pixel[29] = 256 | weighted_pixel[30] =   0 | weighted_pixel[31] = 256 | weighted_pixel[32] =   0 
+
+#           1397000000 | weighted_pixel[33] = 256 | weighted_pixel[34] = 256 | weighted_pixel[35] =   0 | weighted_pixel[36] = 256 | weighted_pixel[37] =   0 | 
+# weighted_pixel[38] =   0 | weighted_pixel[39] = 256 | weighted_pixel[40] = 256 | weighted_pixel[41] = 256 | weighted_pixel[42] =   0 | weighted_pixel[43] =   0 
+
+#           1410000000 | weighted_pixel[44] = 256 | weighted_pixel[45] = 256 | weighted_pixel[46] = 256 | weighted_pixel[47] =   0 | weighted_pixel[48] = 256 | 
+# weighted_pixel[49] =   0 | weighted_pixel[50] =   0 | weighted_pixel[51] = 256 | weighted_pixel[52] = 256 | weighted_pixel[53] = 256 | weighted_pixel[54] =   0 
+
+#           1423000000 | weighted_pixel[55] =   0 | weighted_pixel[56] = 256 | weighted_pixel[57] = 256 | weighted_pixel[58] = 256 | weighted_pixel[59] =   0 | 
+# weighted_pixel[60] = 256 | weighted_pixel[61] =   0 | weighted_pixel[62] =   0 | weighted_pixel[63] = 256 | weighted_pixel[64] = 256 | weighted_pixel[65] =   0 
+
+#           1436000000 | weighted_pixel[66] =   0 | weighted_pixel[67] =   0 | weighted_pixel[68] = 256 | weighted_pixel[69] = 256 | weighted_pixel[70] = 256 | 
+# weighted_pixel[71] =   0 | weighted_pixel[72] = 256 | weighted_pixel[73] =   0 | weighted_pixel[74] =   0 | weighted_pixel[75] = 256 | weighted_pixel[76] =   0 
+
+#           1449000000 | weighted_pixel[77] = 256 | weighted_pixel[78] =   0 | weighted_pixel[79] =   0 | weighted_pixel[80] = 256 | weighted_pixel[81] = 256 | 
+# weighted_pixel[82] = 256 | weighted_pixel[83] =   0 | weighted_pixel[84] = 256 | weighted_pixel[85] =   0 | weighted_pixel[86] =   0 | weighted_pixel[87] =   0 
+
+#           1462000000 | weighted_pixel[88] =   0 | weighted_pixel[89] = 256 | weighted_pixel[90] =   0 | weighted_pixel[91] =   0 | weighted_pixel[92] = 256 | 
+# weighted_pixel[93] = 256 | weighted_pixel[94] = 256 | weighted_pixel[95] =   0 | weighted_pixel[96] = 256 | weighted_pixel[97] =   0 | weighted_pixel[98] =   0 
+
+#           1475000000 | weighted_pixel[99] = 256 | weighted_pixel[100] =   0 | weighted_pixel[101] = 256 | weighted_pixel[102] =   0 | weighted_pixel[103] =   0 | 
+# weighted_pixel[104] = 256 | weighted_pixel[105] = 256 | weighted_pixel[106] = 256 | weighted_pixel[107] =   0 | weighted_pixel[108] = 256 | weighted_pixel[109] =   0 
+
+#           1488000000 | weighted_pixel[110] = 256 | weighted_pixel[111] = 256 | weighted_pixel[112] =   0 | weighted_pixel[113] = 256 | weighted_pixel[114] =   0 | 
+# weighted_pixel[115] =   0 | weighted_pixel[116] = 256 | weighted_pixel[117] = 256 | weighted_pixel[118] = 256 | weighted_pixel[119] =   0 | weighted_pixel[120] =   0 
+
+#           1501000000 | weighted_pixel[121] = 256 | weighted_pixel[122] = 256 | weighted_pixel[123] = 256 | weighted_pixel[124] =   0 | weighted_pixel[125] = 256 | 
+# weighted_pixel[126] =   0 | weighted_pixel[127] =   0
+
+ 
+

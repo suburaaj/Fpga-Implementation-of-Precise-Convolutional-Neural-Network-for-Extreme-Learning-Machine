@@ -1,0 +1,38 @@
+# time =           2254000000 | weighted_pixel[0] =   8 | weighted_pixel[1] =  64 | weighted_pixel[2] = 360 | weighted_pixel[3] = 320 | weighted_pixel[4] = 264 | 
+# weighted_pixel[5] =  10 | weighted_pixel[6] = 272 | weighted_pixel[7] =   8 | weighted_pixel[8] =   8 | weighted_pixel[9] = 320 | weighted_pixel[10] =   0 
+
+# time =           2267000000 | weighted_pixel[11] = 386 | weighted_pixel[12] =  66 | weighted_pixel[13] =  16 | weighted_pixel[14] = 464 | weighted_pixel[15] = 272 | 
+# weighted_pixel[16] = 402 | weighted_pixel[17] = 146 | weighted_pixel[18] = 402 | weighted_pixel[19] =  80 | weighted_pixel[20] =   0 | weighted_pixel[21] =   0
+
+# time =           2280000000 | weighted_pixel[22] = 400 | weighted_pixel[23] = 272 | weighted_pixel[24] =  16 | weighted_pixel[25] = 402 | weighted_pixel[26] =   2 | 
+# weighted_pixel[27] = 128 | weighted_pixel[28] = 416 | weighted_pixel[29] = 258 | weighted_pixel[30] = 256 | weighted_pixel[31] =  32 | weighted_pixel[32] =   0 
+
+# time =          2293000000 | weighted_pixel[33] = 128 | weighted_pixel[34] = 128 | weighted_pixel[35] = 294 | weighted_pixel[36] = 292 | weighted_pixel[37] = 288 | 
+# weighted_pixel[38] =   2 | weighted_pixel[39] = 294 | weighted_pixel[40] =  36 | weighted_pixel[41] =   0 | weighted_pixel[42] = 256 | weighted_pixel[43] = 256
+
+# time =           2306000000 | weighted_pixel[44] = 256 | weighted_pixel[45] =   6 | weighted_pixel[46] = 262 | weighted_pixel[47] =  36 | weighted_pixel[48] =   0 | 
+# weighted_pixel[49] = 292 | weighted_pixel[50] = 290 | weighted_pixel[51] = 262 | weighted_pixel[52] =  38 | weighted_pixel[53] = 256 | weighted_pixel[54] =   0 
+
+# time =           2319000000 | weighted_pixel[55] =  32 | weighted_pixel[56] = 288 | weighted_pixel[57] =   0 | weighted_pixel[58] =  34 | weighted_pixel[59] = 256 | 
+# weighted_pixel[60] = 290 | weighted_pixel[61] = 256 | weighted_pixel[62] =   0 | weighted_pixel[63] = 384 | weighted_pixel[64] = 128 | weighted_pixel[65] = 256
+
+# time =           2332000000 | weighted_pixel[66] =   0 | weighted_pixel[67] =   0 | weighted_pixel[68] =   0 | weighted_pixel[69] = 128 | weighted_pixel[70] =   0 | 
+# weighted_pixel[71] = 128 | weighted_pixel[72] = 136 | weighted_pixel[73] =   8 | weighted_pixel[74] =   0 | weighted_pixel[75] =   0 | weighted_pixel[76] = 256  
+
+# time =           2345000000 | weighted_pixel[77] = 256 | weighted_pixel[78] = 256 | weighted_pixel[79] = 392 | weighted_pixel[80] = 136 | weighted_pixel[81] = 384 | 
+# weighted_pixel[82] = 136 | weighted_pixel[83] = 136 | weighted_pixel[84] = 392 | weighted_pixel[85] = 384 | weighted_pixel[86] = 264 | weighted_pixel[87] = 256 
+
+# time =           2358000000 | weighted_pixel[88] =   0 | weighted_pixel[89] = 384 | weighted_pixel[90] = 256 | weighted_pixel[91] = 256 | weighted_pixel[92] =   0 | 
+# weighted_pixel[93] = 384 | weighted_pixel[94] =   0 | weighted_pixel[95] =   0 | weighted_pixel[96] = 384 | weighted_pixel[97] = 256 | weighted_pixel[98] =   0 
+
+# time =            2371000000 | weighted_pixel[99] =   0 | weighted_pixel[100] = 256 | weighted_pixel[101] = 256 | weighted_pixel[102] = 256 | weighted_pixel[103] =   0 | 
+# weighted_pixel[104] = 256 | weighted_pixel[105] =   0 | weighted_pixel[106] =   0 | weighted_pixel[107] = 256 | weighted_pixel[108] = 256 | weighted_pixel[109] =   0 
+
+# time =           2384000000 | weighted_pixel[110] =   0 | weighted_pixel[111] =   0 | weighted_pixel[112] = 256 | weighted_pixel[113] = 256 | weighted_pixel[114] = 256 | 
+# weighted_pixel[115] =   0 | weighted_pixel[116] = 256 | weighted_pixel[117] =   0 | weighted_pixel[118] =   0 | weighted_pixel[119] = 256 | weighted_pixel[120] = 256
+
+# time =           2397000000 | weighted_pixel[121] =  32 | weighted_pixel[122] =   0 | weighted_pixel[123] = 256 | weighted_pixel[124] = 288 | weighted_pixel[125] = 288 | 
+# weighted_pixel[126] =   0 | weighted_pixel[127] = 256
+
+
+
